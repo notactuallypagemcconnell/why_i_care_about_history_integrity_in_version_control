@@ -84,5 +84,3 @@ I find this super valuable when working on new projects.
 
 ## Conclusion
 History is important, and when we write it down we should do so with some rigid standards on passing tests, messaging, and an emphasis on the _why_ of things, because it will make everyones lives easier.
-
-Thats pretty friggin neat right?
